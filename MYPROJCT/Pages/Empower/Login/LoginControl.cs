@@ -30,7 +30,7 @@ namespace MYPROJECT
             //System.Threading.Thread.Sleep(10000);
             //Assert.AreEqual(SeleniumGetMethos.GetText(clientCodeTextField), "998");
             userIDTextField.SendKeys("ashrestha@empowersoftware.com");
-            passWordTextBox.SendKeys("Puti123!");
+            passWordTextBox.SendKeys("Pti123!");
             submitButton.Click();
             //submitButton.Clicks();
         }
